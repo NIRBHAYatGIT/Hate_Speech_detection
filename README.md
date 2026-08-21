@@ -137,19 +137,6 @@ Evaluation Metrics:
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots of your application here.
-
-Example:
-
-```
-screenshots/home.png
-screenshots/result.png
-```
-
----
-
 ## 🎯 Future Improvements
 
 - Deep Learning (LSTM/BERT)
